@@ -143,6 +143,12 @@ const themes = {
     text_color: "859900",
     bg_color: "fdf6e3",
   },
+  "purple-rs-dark": {
+    title_color: "A51782",
+    icon_color: "A517BA",
+    text_color: "FFFFFF",
+    bg_color: "050F2C",
+  },
 };
 
 module.exports = themes;
